@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../webdevelopment/webdevelopment"
+        },
+        {
+            "path": "../../Documents/Rejoiuce project"
+        },
+        {
+            "path": "Tic Tac Toe"
+        },
+        {
+            "path": "Sundown clone"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "webdevelopment"
+    }
+}
